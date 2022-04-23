@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "hello",
+      "email": "hello@test.com",
+      "password": "hello123",
+      "id": 1
+    },
+    {
+      "name": "gonesh923",
+      "email": "gonesh923@gmail.com",
+      "password": "radhasuwami923",
+      "id": 2
+    },
+    {
+      "name": "gonu",
+      "email": "gonesh923@gmail.com",
+      "password": "radhasuwami923",
+      "id": 3
+    },
+    {
+      "name": "Shuvo",
+      "email": "gonesh923@gmail.com",
+      "password": "radhasuwami923",
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Burger King updated",
+      "contact": "01315141416",
+      "address": "13 Modina Market, Sylhet-3100",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Tasty Treat",
+      "contact": "01315141226",
+      "address": "Modina Market, Sylhet-3100"
+    },
+    {
+      "name": "Polasi",
+      "contact": "01763521435",
+      "address": "Modina Market, Sylhet",
+      "id": 3
+    },
+    {
+      "name": "Pach Vai",
+      "contact": "01568669952",
+      "address": "Sylhet",
+      "id": 4
+    },
+    {
+      "name": "Vujon Bari",
+      "contact": "01568644545",
+      "address": "Sylhet",
+      "id": 5
+    }
+  ]
+}
